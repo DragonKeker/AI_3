@@ -24,7 +24,7 @@
 Матрица неточности:
 ```
 
-![alt](images/res_1_perc_myfw.png)
+![res_1_perc_myfw](https://user-images.githubusercontent.com/47860210/138592066-6de73bf7-cf1d-432e-9b84-18be375c8f46.png)
 
 ![alt](images/res_1_perc_plot_myfw.png)
 
