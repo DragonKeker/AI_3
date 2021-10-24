@@ -26,7 +26,7 @@
 
 ![res_1_perc_myfw](https://user-images.githubusercontent.com/47860210/138592066-6de73bf7-cf1d-432e-9b84-18be375c8f46.png)
 
-![alt](images/res_1_perc_plot_myfw.png)
+![res_1_perc_plot_myfw](https://user-images.githubusercontent.com/47860210/138592112-72b39012-5921-402b-9272-67579cd9fa80.png)
 
 ### Результаты для двухслойного персептрона
 ---
@@ -37,9 +37,10 @@
 Матрица неточности:
 ```
 
-![alt](images/res_2_perc_myfw.png)
+![res_2_perc_myfw](https://user-images.githubusercontent.com/47860210/138592121-ddd5a10b-a51a-4975-856e-6c60cdc9ff47.png)
 
-![alt](images/res_2_perc_plot_myfw.png)
+![res_2_perc_plot_myfw](https://user-images.githubusercontent.com/47860210/138592127-37129ef0-b183-4c7c-ba9a-3c7c0c19c97b.png)
+
 
 ### Результаты для трехслойного персептрона
 ---
@@ -50,10 +51,9 @@
 Матрица неточности:
 ```
 
-![alt](images/res_3_perc_myfw.png)
+![res_3_perc_myfw](https://user-images.githubusercontent.com/47860210/138592134-9f311b0c-1133-4a49-a18a-0f0820ac69f0.png)
 
-![alt](images/res_3_perc_plot_myfw.png)
-
+![res_3_perc_plot_myfw](https://user-images.githubusercontent.com/47860210/138592143-b98e7d11-f704-4c68-add1-de97779a99c4.png)
 
 ### Сравнение передаточных функций
 ---
@@ -79,9 +79,9 @@
 Конечная точность Tanh на тестовой выборке: 0.972619
 ```
 
-![alt](images/tanh_myfw.png)
+![tanh_myfw](https://user-images.githubusercontent.com/47860210/138592149-d2e8c458-d127-4831-aeef-efae6fff3347.png)
 
-![alt](images/tanh_plot_myfw.png)
+![tanh_plot_myfw](https://user-images.githubusercontent.com/47860210/138592156-12deb45e-ba5f-4bea-9afc-fe7d4f5ea93e.png)
 
 2. Тождественная функция
 
@@ -90,9 +90,9 @@
 Конечная точность Identity на тестовой выборке: 0.917619
 ```
 
-![alt](images/identity_myfw.png)
+![identity_myfw](https://user-images.githubusercontent.com/47860210/138592164-2c6d7b23-870e-4ec4-bf9f-ab1603b43f10.png)
 
-![alt](images/identity_plot_myfw.png)
+![identity_plot_myfw](https://user-images.githubusercontent.com/47860210/138592171-70a266d3-a30a-40fc-bdd1-5582e5f82971.png)
 
 3. Сигмоида
 
@@ -101,9 +101,9 @@
 Конечная точность Sigmoid на тестовой выборке: 0.963810
 ```
 
-![alt](images/sigmoid_myfw.png)
+![sigmoid_myfw](https://user-images.githubusercontent.com/47860210/138592177-fdfc399b-ff76-4457-84f1-8b9c7b65538e.png)
 
-![alt](images/sigmoid_plot_myfw.png)
+![sigmoid_plot_myfw](https://user-images.githubusercontent.com/47860210/138592185-9564a33e-ce77-453f-a6c4-f82647fe94cf.png)
 
 4. Полулинейная функция
 
@@ -112,9 +112,9 @@
 Конечная точность ReLU на тестовой выборке: 0.974762
 ```
 
-![alt](images/relu_myfw.png)
+![relu_myfw](https://user-images.githubusercontent.com/47860210/138592191-f5434e0e-c0ce-4868-a94a-5f2e3f4bb5f3.png)
 
-![alt](images/relu_plot_myfw.png)
+![relu_plot_myfw](https://user-images.githubusercontent.com/47860210/138592196-37331084-4055-4049-bc08-cb202b517d91.png)
 
 ### Сравнение количества нейронов в промежуточных слоях
 ---
@@ -212,9 +212,9 @@ Epoch 15. Training loss = 0.511764. Training accuracy = 0.911518
 Test loss = 0.879129. Test accuracy = 0.894286
 ```
 
-![alt](images/res_1_perc_torch.png)
+![res_1_perc_torch](https://user-images.githubusercontent.com/47860210/138592206-d5887495-3821-44f9-8094-a52c5e7e0a92.png)
 
-![alt](images/res_1_perc_plot_torch.png)
+![res_1_perc_plot_torch](https://user-images.githubusercontent.com/47860210/138592209-72d2334f-c2b5-4077-8041-cee3c46e6fc8.png)
 
 ### Результаты для двухслойного персептрона
 
@@ -237,9 +237,9 @@ Epoch 15. Training loss = 0.249646. Training accuracy = 0.944494
 Test loss = 0.743546. Test accuracy = 0.933690
 ```
 
-![alt](images/res_2_perc_torch.png)
+![res_2_perc_torch](https://user-images.githubusercontent.com/47860210/138592219-7a4689b6-b314-468a-a696-88da2b56025b.png)
 
-![alt](images/res_2_perc_plot_torch.png)
+![res_2_perc_plot_torch](https://user-images.githubusercontent.com/47860210/138592225-7efaecc5-b329-4157-b061-a39e856a3494.png)
 
 ### Результаты для трехслойного персептрона
 
@@ -262,9 +262,9 @@ Epoch 15. Training loss = 0.281412. Training accuracy = 0.938423
 Test loss = 0.531065. Test accuracy = 0.938690
 ```
 
-![alt](images/res_3_perc_torch.png)
+![res_3_perc_torch](https://user-images.githubusercontent.com/47860210/138592233-a947e2a3-0f01-4648-8b91-caec9d3754a0.png)
 
-![alt](images/res_3_perc_plot_torch.png)
+![res_3_perc_plot_torch](https://user-images.githubusercontent.com/47860210/138592244-45556e75-344d-4f94-83de-f1ccf36bbdf7.png)
 
 ### Сравнение пердаточных функций
 ---
@@ -293,9 +293,9 @@ Epoch 15. Training loss = 0.235668. Training accuracy = 0.947827
 Test loss = 0.592308. Test accuracy = 0.930476
 ```
 
-![alt](images/relu_torch.png)
+![relu_torch](https://user-images.githubusercontent.com/47860210/138592248-8acbf518-dff9-438f-8281-e75c04a76f1c.png)
 
-![alt](images/relu_plot_torch.png)
+![relu_plot_torch](https://user-images.githubusercontent.com/47860210/138592258-4d6e84d8-46a9-4aad-b0ef-52b6f17680b6.png)
 
 2. tanh
 
@@ -319,9 +319,9 @@ Epoch 15. Training loss = 0.377989. Training accuracy = 0.930268
 Test loss = 0.371834. Test accuracy = 0.935595
 ```
 
-![alt](images/tanh_torch.png)
+![tanh_torch](https://user-images.githubusercontent.com/47860210/138592265-7a44342f-23fb-4689-8700-6e9980985bb7.png)
 
-![alt](images/tanh_plot_torch.png)
+![tanh_plot_torch](https://user-images.githubusercontent.com/47860210/138592270-2e44e029-e677-4581-89e9-d5fedbcdab94.png)
 
 3. sigmoid
 
@@ -345,9 +345,9 @@ Epoch 15. Training loss = 0.126380. Training accuracy = 0.968155
 Test loss = 0.205653. Test accuracy = 0.955595
 ```
 
-![alt](images/sigmoid_torch.png)
+![sigmoid_torch](https://user-images.githubusercontent.com/47860210/138592272-764e3c2f-5306-4ec6-a29f-aba7fae33b31.png)
 
-![alt](images/sigmoid_plot_torch.png)
+![sigmoid_plot_torch](https://user-images.githubusercontent.com/47860210/138592279-965fb741-3e9c-4236-88bb-43731814b148.png)
 
 ### Сравнение количества нейронов в промежуточных слоях
 ---
